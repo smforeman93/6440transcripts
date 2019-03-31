@@ -6,7 +6,8 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- *
+ * Author: Sophie Foreman
+ * Parses .srt transcripts into a more readable format
  */
 public class DecodeSRT {
     public static void main(String[] args) {
